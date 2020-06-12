@@ -11,7 +11,7 @@ run:\
 
 [link to weight](https://drive.google.com/file/d/1VeJNXVn-R1QfMOxZPQOQluM0ilHeeVra/view?usp=sharing)
 
-![Alt text](readme/carTraffic.png?raw=true "Title")
+
 Multiple detection:
 ![Alt text](readme/transitBoard1.png?raw=true "Title")
 
