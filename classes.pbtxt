@@ -1,0 +1,12 @@
+item {
+	id: 1
+	name: 'pedestrianCrossing'
+}
+item {
+	id: 2
+	name: 'signalAhead'
+}
+item {
+	id: 3
+	name: 'stop'
+}
